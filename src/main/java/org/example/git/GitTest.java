@@ -9,6 +9,8 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello");
         System.out.println("master update");
+        System.out.println("dev update");
+        System.out.println("dev");
     }
 
     public static void print() {
