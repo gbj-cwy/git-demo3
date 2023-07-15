@@ -6,5 +6,7 @@ package org.example.git;
  * @date 2023/7/15 19:34
  */
 public class GitTest {
+    public static void main(String[] args) {
 
+    }
 }
