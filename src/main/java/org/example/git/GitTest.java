@@ -11,6 +11,7 @@ public class GitTest {
         System.out.println("master update");
         System.out.println("dev update");
         System.out.println("dev");
+        System.out.println("push update");
     }
 
     public static void print() {
